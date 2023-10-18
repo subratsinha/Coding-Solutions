@@ -8,6 +8,8 @@ Register for HACKTOBERFEST 2023 [here](https://hacktoberfest.digitalocean.com/?u
 Read [Contributing.md]()
 Make sure to add your details in [Hacktoberfest File]()
 
+## Code related to sorting algorithms will only be merged.
+
 ##
 #hacktoberfest
 #hacktoberfest2023
